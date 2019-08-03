@@ -35,6 +35,7 @@ async function start({ labeledFaceDescriptors, constants: { threshold } }) {
                 position: "absolute",
                 top,
                 left,
+                "pointer-events": "none",
               })
               .attr("uuid", uuid)
               .appendTo($image.parent());
