@@ -15,10 +15,8 @@ Follow the tutorial to enable the extension using developer mode
 
 
 
-## Special Thanks
+## Thanks
 
 [FaceApi](https://github.com/justadudewhohacks/face-api.js)
 
 [CuteIconProvider](www.flaticon.com)
-
-[CarrieLamPhotos](https://www.facebook.com/carrielam.hksar/)
