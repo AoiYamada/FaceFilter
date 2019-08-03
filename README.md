@@ -14,7 +14,6 @@ Follow the tutorial to enable the extension using developer mode
 [Chrome Extension Tutorial](https://developer.chrome.com/extensions/getstarted)
 
 
-
 ## Thanks
 
 [FaceApi](https://github.com/justadudewhohacks/face-api.js)
